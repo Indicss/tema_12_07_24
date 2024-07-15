@@ -1,0 +1,14 @@
+D:\curs C#\TEMA_12_07_24\TEMA_12_07_24\bin\Debug\net6.0\TEMA_12_07_24.exe
+D:\curs C#\TEMA_12_07_24\TEMA_12_07_24\bin\Debug\net6.0\TEMA_12_07_24.deps.json
+D:\curs C#\TEMA_12_07_24\TEMA_12_07_24\bin\Debug\net6.0\TEMA_12_07_24.runtimeconfig.json
+D:\curs C#\TEMA_12_07_24\TEMA_12_07_24\bin\Debug\net6.0\TEMA_12_07_24.dll
+D:\curs C#\TEMA_12_07_24\TEMA_12_07_24\bin\Debug\net6.0\TEMA_12_07_24.pdb
+D:\curs C#\TEMA_12_07_24\TEMA_12_07_24\obj\Debug\net6.0\TEMA_12_07_24.GeneratedMSBuildEditorConfig.editorconfig
+D:\curs C#\TEMA_12_07_24\TEMA_12_07_24\obj\Debug\net6.0\TEMA_12_07_24.AssemblyInfoInputs.cache
+D:\curs C#\TEMA_12_07_24\TEMA_12_07_24\obj\Debug\net6.0\TEMA_12_07_24.AssemblyInfo.cs
+D:\curs C#\TEMA_12_07_24\TEMA_12_07_24\obj\Debug\net6.0\TEMA_12_07_24.csproj.CoreCompileInputs.cache
+D:\curs C#\TEMA_12_07_24\TEMA_12_07_24\obj\Debug\net6.0\TEMA_12_07_24.dll
+D:\curs C#\TEMA_12_07_24\TEMA_12_07_24\obj\Debug\net6.0\refint\TEMA_12_07_24.dll
+D:\curs C#\TEMA_12_07_24\TEMA_12_07_24\obj\Debug\net6.0\TEMA_12_07_24.pdb
+D:\curs C#\TEMA_12_07_24\TEMA_12_07_24\obj\Debug\net6.0\TEMA_12_07_24.genruntimeconfig.cache
+D:\curs C#\TEMA_12_07_24\TEMA_12_07_24\obj\Debug\net6.0\ref\TEMA_12_07_24.dll

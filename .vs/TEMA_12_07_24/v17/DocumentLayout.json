@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\curs C#\\TEMA_12_07_24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8479DB92-D194-4752-BBE4-08E8003CE15A}|TEMA_12_07_24\\TEMA_12_07_24.csproj|d:\\curs c#\\tema_12_07_24\\tema_12_07_24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8479DB92-D194-4752-BBE4-08E8003CE15A}|TEMA_12_07_24\\TEMA_12_07_24.csproj|solutionrelative:tema_12_07_24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\curs C#\\TEMA_12_07_24\\TEMA_12_07_24\\Program.cs",
+              "RelativeDocumentMoniker": "TEMA_12_07_24\\Program.cs",
+              "ToolTip": "D:\\curs C#\\TEMA_12_07_24\\TEMA_12_07_24\\Program.cs",
+              "RelativeToolTip": "TEMA_12_07_24\\Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwBQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:46:41.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
